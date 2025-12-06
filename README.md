@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: USTH ICT1
 * Student ID: Not-Vietnamese
-* Student Group ID: Not-for-now
+* Student Group ID: 23BI14085
